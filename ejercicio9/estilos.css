@@ -1,0 +1,14 @@
+.imagenes_precargadas>img {
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.imagen {
+    width: 300px;
+    height: 300px;
+}
+
+body {
+    background-color: bisque;
+}
