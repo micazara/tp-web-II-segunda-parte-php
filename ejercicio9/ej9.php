@@ -11,7 +11,7 @@
 
 <body>
     <?php
-    include_once('header_footer.php');
+    include_once('../header_footer.php');
     echo $header;
     ?>
     <nav>
@@ -46,10 +46,12 @@
         </form>
 
     </main>
+
     <?php
-    include_once('header_footer.php');
+    include_once('../header_footer.php');
     echo $footer;
     ?>
+
     <script src="ejercicio9.js"></script>
 </body>
 

@@ -15,7 +15,7 @@
     ?>
     <nav>
         <ul>
-            <li><a href="ejercicio9/ej9.html">Ejercicio 9</a></li>
+            <li><a href="ejercicio9/ej9.php">Ejercicio 9</a></li>
         </ul>
     </nav>
     <!-- Realizar una web home en el archivo index.php, que contenga:
