@@ -16,6 +16,12 @@
     <nav>
         <ul>
             <li><a href="ejercicio9/ej9.php">Ejercicio 9</a></li>
+            <li><a href="ejercicio10/ej10.php">Ejercicio 10</a></li>
+            <li><a href="ejercicio11/ej11.php">Ejercicio 11</a></li>
+            <li><a href="ejercicio12/ejercicio12.php">Ejercicio 12</a></li>
+            <li><a href="ejercicio13/ej13.php">Ejercicio 13</a></li>
+            <li><a href="ejercicio14/ej14.php">Ejercicio 14</a></li>
+            <li><a href="ejercicio15/ej15.php">Ejercicio 15</a></li>
         </ul>
     </nav>
     <!-- Realizar una web home en el archivo index.php, que contenga:
